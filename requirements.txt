@@ -1,0 +1,6 @@
+# Requirements for reproducing numerical experiments and figures in:
+# "A Tight Lower Bound on Generalization in Quantum Machine Learning via Dynamical Lie Algebra Dimension"
+
+pennylane>=0.30.0
+numpy>=1.23.0
+matplotlib>=3.5.0
